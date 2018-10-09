@@ -170,7 +170,7 @@ figure {
 }
 .nav a {
   padding: 5px 0;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.4);
 }
 @media screen and (max-width: 768px) {
   .nav .menu-1,
@@ -245,7 +245,7 @@ figure {
 .nav ul li a:hover,
 .nav ul li a:focus,
 .nav ul li a:active {
-  color: black;
+  color: rgba(0, 0, 0, 0.4);
 }
 .nav ul li.has-dropdown {
   position: relative;
@@ -457,7 +457,7 @@ figure {
 .feature-center .icon {
   width: 90px;
   height: 90px;
-  background: #cabcab;
+  background: #b2b2a2;
   display: table;
   text-align: center;
   margin-bottom: 30px;
@@ -513,7 +513,7 @@ figure {
   height: 300px;
   width: 100.1%;
   opacity: 0;
-  background: rgba(237, 235, 232, 0.9);
+  background: rgba(240, 240, 240, 0.95);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -684,7 +684,7 @@ figure {
   letter-spacing: 1px;
 }
 .author .desc .social-icons li a {
-  color: #cabcab;
+  color: #b2b2a2;
   padding-left: 0;
   padding-right: 10px;
 }
@@ -740,7 +740,7 @@ figure {
 }
 
 #footer {
-  background: #efefef;
+  background: #e5dace;
 }
 #footer .footer-links {
   padding: 0;

@@ -201,7 +201,7 @@ figure {
 }
 .nav a {
   padding: 5px 0;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.9);
 }
 @media screen and (max-width: 768px) {
   .nav .menu-1,
@@ -277,7 +277,7 @@ figure {
 .nav ul li a:hover,
 .nav ul li a:focus,
 .nav ul li a:active {
-  color: rgba(0, 0, 0, 0.2);
+  color: rgba(255, 255, 255, 0.6);
 }
 .nav ul li.has-dropdown {
   position: relative;
